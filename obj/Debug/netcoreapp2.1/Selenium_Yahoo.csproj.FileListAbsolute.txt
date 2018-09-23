@@ -1,0 +1,15 @@
+/Users/katelynncampbell/Documents/Selenium_Yahoo/obj/Debug/netcoreapp2.1/Selenium_Yahoo.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/Selenium_Yahoo/obj/Debug/netcoreapp2.1/Selenium_Yahoo.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/Selenium_Yahoo/obj/Debug/netcoreapp2.1/Selenium_Yahoo.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/Selenium_Yahoo/obj/Debug/netcoreapp2.1/Selenium_Yahoo.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/Selenium_Yahoo.deps.json
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/Selenium_Yahoo.runtimeconfig.json
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/Selenium_Yahoo.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/Selenium_Yahoo.dll
+/Users/katelynncampbell/Documents/Selenium_Yahoo/bin/Debug/netcoreapp2.1/Selenium_Yahoo.pdb
+/Users/katelynncampbell/Documents/Selenium_Yahoo/obj/Debug/netcoreapp2.1/Selenium_Yahoo.dll
+/Users/katelynncampbell/Documents/Selenium_Yahoo/obj/Debug/netcoreapp2.1/Selenium_Yahoo.pdb
